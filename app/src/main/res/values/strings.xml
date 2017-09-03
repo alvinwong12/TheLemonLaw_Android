@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TheLemonLaw</string>
+    <string name="about">About us</string>
+    <string name="contact">Contact</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="about_title">The Team</string>
+    <string name="about_content">We are a group of 3 students from the ECE department at the University of Waterloo. We decided to create this app based off of Barney Stinson\'s Lemon Law in the tv show : "How I met your Mother" More information can be found on our github link. https://github.com/IM-MC/TheLemonLaw</string>
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "352388240882",
+    "firebase_url": "https://thelemonlaw-feb88.firebaseio.com",
+    "project_id": "thelemonlaw-feb88",
+    "storage_bucket": "thelemonlaw-feb88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352388240882:android:b522ae60664bd551",
+        "android_client_info": {
+          "package_name": "alvinwong.thelemonlaw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352388240882-7j5r0guagb06a7ddn3eu93m6sk26ig2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgLjGy4DuG4nsuI_YIZdL1TsNLnOOpjbM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
